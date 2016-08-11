@@ -1,0 +1,4 @@
+{
+	"dbUri": "mongodb://knexpert:knexpert!@#$%1@aws-us-east-1-portal.12.dblayer.com:10423,aws-us-east-1-portal.13.dblayer.com:10983/knexpert",
+	"dbName": "knexpert-dev"
+}

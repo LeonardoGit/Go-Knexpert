@@ -1,0 +1,4 @@
+{
+	"dbUri": "locahhost:27017",
+	"dbName": "knexpert-staging"
+}
